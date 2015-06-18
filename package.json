@@ -37,7 +37,7 @@
     "sinon": "^1.12.2"
   },
   "dependencies": {
-    "bitcore": "^0.12.0",
+    "bitcore": "git://github.com/bitpay/bitcore.git#a4ac3f50d300b3f89fad02f9e38fc536ac90abdc",
     "browser-request": "^0.3.3",
     "request": "^2.51.0"
   }
